@@ -1,7 +1,7 @@
 # TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge (NeurIPS 2024)
 
 [paper](https://openreview.net/pdf?id=tN0xnYPLt6)
-
+![poster](./poster.png)
 
 ## Environment
 CUDA 11.1<br> 
