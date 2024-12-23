@@ -22,9 +22,11 @@ Manga109
 
 ## Usage
 ### Transfer LUT
-'<python ./Transfer_TinyLUT.py>'
+'''
+python ./Transfer_TinyLUT.py
+'''
 ### Test
-'<python ./test_TinyLUT.py>'
+<python ./test_TinyLUT.py>
 
 ## Acknowledgments
 Thanks the ACs and the reviewers for their insightful comments, which are very helpful to improve our paper!
