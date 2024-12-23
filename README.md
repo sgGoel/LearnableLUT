@@ -32,8 +32,4 @@ Thanks the ACs and the reviewers for their insightful comments, which are very h
 
 ## Citation
 
-## Acknowledgments
-Thanks the ACs and the reviewers for their insightful comments, which are very helpful to improve our paper!
-
-## Citation
 
