@@ -1,6 +1,7 @@
 # TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge (NeurIPS 2024)
 
 [paper](https://openreview.net/pdf?id=tN0xnYPLt6)<br> 
+
 ![poster](./poster.png)
 
 ## Environment
@@ -31,7 +32,7 @@ Urban100<br>
 ## Acknowledgments
 Thanks the ACs and the reviewers for their insightful comments, which are very helpful to improve our paper!<br>
 This work is based on the following works, thank the authors a lot.<br>
-[SRLUT](https://github.com/yhjo09/SR-LUT)
+[SRLUT](https://github.com/yhjo09/SR-LUT)<br> 
 [MULUT](https://github.com/ddlee-cn/MuLUT/tree/main)
 
 ## Citation
