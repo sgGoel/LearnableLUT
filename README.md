@@ -3,10 +3,10 @@
 [paper](https://openreview.net/pdf?id=tN0xnYPLt6)
 
 ## Environment
-CUDA 11.1
-CUDNN 8.5.0
-torch 1.10
-torchvision 0.8.0
+CUDA 11.1\<br> 
+CUDNN 8.5.0\<br> 
+torch 1.10\<br> 
+torchvision 0.8.0\<br> 
 pip3 install opencv-python
 
 ## Dataset
