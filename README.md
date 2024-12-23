@@ -22,9 +22,9 @@ Manga109
 
 ## Usage
 ### Transfer LUT
-···
+···Bash
 python ./Transfer_TinyLUT.py
-
+···
 ### Test
 '''python
 python ./test_TinyLUT.py
