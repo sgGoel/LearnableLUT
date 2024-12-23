@@ -14,10 +14,10 @@ pip3 install opencv-python
 DVI2K
 
 ### Test Dataset
-Set5
-Set14
-Urban100
-BSD100
+Set5<br> 
+Set14<br> 
+Urban100<br> 
+BSD100<br> 
 Manga109
 
 ## Usage
