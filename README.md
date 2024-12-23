@@ -1,6 +1,6 @@
 # TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge (NeurIPS 2024)
 
-[paper](https://openreview.net/pdf?id=tN0xnYPLt6)
+[paper](https://openreview.net/pdf?id=tN0xnYPLt6)<br> 
 ![poster](./poster.png)
 
 ## Environment
