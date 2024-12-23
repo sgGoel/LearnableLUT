@@ -29,8 +29,8 @@ Urban100<br>
 >python ./test_TinyLUT.py
 
 ## Acknowledgments
-Thanks the ACs and the reviewers for their insightful comments, which are very helpful to improve our paper!
-This work is based on the following works, thank the authors a lot.
+Thanks the ACs and the reviewers for their insightful comments, which are very helpful to improve our paper!<br>
+This work is based on the following works, thank the authors a lot.<br>
 [SRLUT](https://github.com/yhjo09/SR-LUT)
 [MULUT](https://github.com/ddlee-cn/MuLUT/tree/main)
 
