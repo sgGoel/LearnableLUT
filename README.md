@@ -24,10 +24,14 @@ Urban100<br>
 
 ## Usage
 ### Transferring LUT network into LUTs
->python ./Transfer_TinyLUT.py
+```python
+python ./Transfer_TinyLUT.py
+```
 
 ### Test LUTs
->python ./test_TinyLUT.py
+```python
+python ./test_TinyLUT.py
+```
 
 ## Acknowledgments
 Thanks the ACs and the reviewers for their insightful comments, which are very helpful to improve our paper!<br>
@@ -36,15 +40,13 @@ This work is based on the following works, thank the authors a lot.<br>
 [MULUT](https://github.com/ddlee-cn/MuLUT/tree/main)
 
 ## Citation
->@inproceedings{
+```Latex
+@inproceedings{
 li2024tinylut,<br>
 title={Tiny{LUT}: Tiny Look-Up Table for Efficient Image Restoration at the Edge},<br>
 author={Huanan LI and Juntao Guan and Lai Rui and Sijun Ma and Lin Gu and Zhangming Zhu},<br>
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},<br>
 year={2024},<br>
 url={https://openreview.net/forum?id=tN0xnYPLt6}}
-
-```python
-#!/usr/bin/env python3
-print("Hello, World!");
 ```
+
