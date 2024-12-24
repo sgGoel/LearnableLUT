@@ -42,8 +42,6 @@ title={Tiny{LUT}: Tiny Look-Up Table for Efficient Image Restoration at the Edge
 author={Huanan LI and Juntao Guan and Lai Rui and Sijun Ma and Lin Gu and Zhangming Zhu},<br>
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},<br>
 year={2024},<br>
-url={https://openreview.net/forum?id=tN0xnYPLt6}}<br>
-booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},<br>
-year={2024},<br>
 url={https://openreview.net/forum?id=tN0xnYPLt6}}
+
 
