@@ -1,52 +1,20 @@
-# TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge (NeurIPS 2024)
+# About
 
-[paper](https://openreview.net/pdf?id=tN0xnYPLt6)<br> 
+# Usage
 
-![poster](./poster.png)
+# Thanks
 
-## Environment
-CUDA 11.1<br> 
-CUDNN 8.5.0<br> 
-torch 1.10<br> 
-torchvision 0.8.0<br> 
-opencv-python
+Extension of:<br>
+[TinyLUT](https://github.com/Jonas-KD/TinyLUT.git)
 
-## Dataset
-### Train Dataset
-[DVI2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
-
-### Test Dataset
-Set5<br> 
-Set14<br> 
-Urban100<br> 
-[BSD100](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)<br> 
-[Manga109](http://www.manga109.org/en/)
-
-## Usage
-### Transferring LUT network into LUTs
-```python
-python ./Transfer_TinyLUT.py
-```
-
-### Test LUTs
-```python
-python ./test_TinyLUT.py
-```
-
-## Acknowledgments
-Thanks the ACs and the reviewers for their insightful comments, which are very helpful to improve our paper!<br>
-This work is based on the following works, thank the authors a lot.<br>
+Which itself is based on:<br>
 [SRLUT](https://github.com/yhjo09/SR-LUT)<br> 
 [MULUT](https://github.com/ddlee-cn/MuLUT/tree/main)
 
-## Citation
-```Latex
-@inproceedings{
-      li2024tinylut,
-      title={Tiny{LUT}: Tiny Look-Up Table for Efficient Image Restoration at the Edge},
-      author={Huanan LI and Juntao Guan and Lai Rui and Sijun Ma and Lin Gu and Zhangming Zhu},
-      booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-      year={2024}
-}
-```
+
+# Dev Notes
+
+1. implement non uniform binning (mvp)
+2. implement adaptive bit splitting (mvp)
+3. make differentiable (nice if time)
 
